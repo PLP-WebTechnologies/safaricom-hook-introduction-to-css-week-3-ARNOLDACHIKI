@@ -1,5 +1,8 @@
 body {
-    background-color: #f4f4f4; 
+    background-color: #f4f4f4;
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0; 
 }
 
 a {
@@ -10,4 +13,18 @@ a {
 a:hover {
     color: red; 
     text-decoration: underline;
+}
+.header-section {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.footer-section {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
 }
